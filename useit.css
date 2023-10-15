@@ -1,3 +1,6 @@
-h1{ font-size: 40px; color: grey; }
-p{ font-size: 40px; color: blue; }
-h2{ font-size: 40px; color: green; }
+h1{ font-size: 40px; color: grey; font-family:ubuntu;}
+p{  color: blue; font-family:ubuntu; }
+h2{ font-size: 40px; color: green; font-family:ubuntu;}
+.grid{
+   display:grid;
+}
